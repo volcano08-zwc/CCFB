@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.idea/
+
+data/
+logs/
+runs/
+metrics/
+vision_dg_debug/
+
+# Reference papers are local-only; the project-authored architecture PDF is kept.
+DBConformer-Dual-Branch-Convolutional-Transformer-for-EEG-Decoding(1).pdf
+Supplementary_Material_for_DBConformer_final.pdf
