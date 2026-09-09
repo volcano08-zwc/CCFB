@@ -1,0 +1,15 @@
+# Local EEG datasets and temporary runtime state
+/BNCI2014001/
+/.tmp_mne/
+
+# Python cache files
+**/__pycache__/
+*.py[cod]
+
+# Generated training artifacts
+**/data/
+**/logs/
+**/runs/
+**/metrics/
+**/vision_dg_debug/
+
